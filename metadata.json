@@ -1,0 +1,6 @@
+{
+  "name": "Student CGPA & SGPA Calculator & Certificate Generator",
+  "description": "Calculate your semester SGPA and cumulative CGPA from current subjects and previous year data, and instantly generate an official academic grade certificate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
